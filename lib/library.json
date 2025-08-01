@@ -1,0 +1,12 @@
+{
+  "name": "AD717x",
+  "version": "1.0.0",
+  "description": "AD717x/AD411x driver for ESP32",
+  "keywords": ["adc", "ad717x", "ad4111", "analog devices"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shaan-rk/AD717x-ESP32"
+  },
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"]
+}
